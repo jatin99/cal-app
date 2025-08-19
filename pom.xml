@@ -7,6 +7,14 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Cal</name>
 	<description>Demo </description>
+	
+	<scm>
+    <connection>scm:git:https://github.com/jatin99/cal-app.git</connection>
+    <developerConnection>scm:git:https://github.com/jatin99/cal-app.git</developerConnection>
+    <url>https://github.com/jatin99/cal-app</url>
+    <tag>HEAD</tag>
+  </scm>
+	
 	<distributionManagement>
     <repository>
       <id>nexus</id>
